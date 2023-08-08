@@ -5,11 +5,11 @@
 - One value input
 - one button
 - one output field
-**WORKING**
+**WORKING***
 */
 
 
-// Functions
+// Functions 
 
 function calcTip(){
     const tax = 0.2;
