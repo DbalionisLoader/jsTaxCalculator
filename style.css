@@ -1,3 +1,26 @@
 *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+
+.inputControl input{
+   /*  border: 2px solid black;
+    border-radius: 4px;
+    display: block; */
+
+}
+
+.inputControl.success input {
+    border-color: green;
+}
+
+.inputControl.error input {
+    border-color: rgb(217, 10, 10);
+}
+
+.inputControl .error {
+   color:rgb(217, 10, 10);
+   font-size: .875rem;
+   height: 13px;
+   margin-top: .25rem;
+}
